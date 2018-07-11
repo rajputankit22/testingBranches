@@ -2797,6 +2797,10 @@ sendReminder(8109522305, 3000, function(status){
 });
 
 
+//Edited by SujeetOffice
+// Pull request in master by SujeetOffice
+
+
 // sendEmail <- function(){
 //
 //   url <- "http://enterprise.smsgupshup.com/GatewayAPI/rest?method=SendMessage&send_to=8109522305&msg=Your%20loan%20of%20Rs.3000%20is%20approved%20by%20Z2P.%20Please%20check%20your%20email%20inbox%28or%20spam%20folder%29%20for%20further%20instructions%20from%20us%20through%20our%20email%20contact%40z2p.today.&msg_type=TEXT&userid=2000150213&auth_scheme=plain&password=XVTaF0zUg&v=1.1&format=JSON"
