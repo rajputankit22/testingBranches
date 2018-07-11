@@ -1,0 +1,1 @@
+scp -i /home/pi/Documents/key/PaymintSingapore.pem ubuntu@ec2-13-228-136-2.ap-southeast-1.compute.amazonaws.com:/home/ubuntu/serverdata.tar /media/pi/PENDRIVE/MainServerData/
